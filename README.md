@@ -2,7 +2,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)
 
 
 <!--
