@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHminggao&hide=contribs&locale=cn)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHminggao&hide=contribs&locale=cn)](https://github.com/CHminggao)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)](https://github.com/CHminggao)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHminggao)](https://github.com/CHminggao)
+
 <!--
 **CHminggao/CHminggao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
