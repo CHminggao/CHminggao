@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHminggao&hide=contribs&locale=cn)](https://github.com/CHminggao)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)](https://github.com/CHminggao)
 
 
