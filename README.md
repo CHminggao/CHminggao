@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=CHminggao&color=green)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHminggao&hide=contribs&locale=cn)](https://github.com/CHminggao)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHminggao&layout=compact&locale=cn)](https://github.com/CHminggao)
